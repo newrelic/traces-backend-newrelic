@@ -5,7 +5,7 @@ This is a New Relic backend implementation for the [Traces](https://github.com/s
 
 ## Quick start
 
-Add the Ruby agent to your project's Gemfile.
+Add the gem to your project's Gemfile. This will also install `newrelic_rpm`, the New Relic Ruby agent.
 
 ```ruby
 gem 'traces-backend-newrelic'
