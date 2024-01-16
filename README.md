@@ -23,6 +23,6 @@ TRACES_BACKEND=traces/backend/newrelic bundle exec rails s
 
 ## Testing
 
-```
+```bash
 TRACES_BACKEND=traces/backend/newrelic rspec
 ```
