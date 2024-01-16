@@ -1,6 +1,6 @@
 # traces-backend-newrelic
 
-This is a New Relic backend implementation for the [Traces](https://github.com/socketry/traces) gem.
+This is a New Relic backend implementation of the [Traces](https://github.com/socketry/traces) gem.
 
 
 ## Quick start
